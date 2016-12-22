@@ -1,0 +1,19 @@
+<html>
+ <head>
+ <title>party helper home page</title>
+ </head>
+
+<body style="background-color: yellow">
+ <img style="float: left" src="balloons.png">
+ <img style="float: right" src="balloons.png">
+ <h1 style="text-align: center; background-color=green"<>Party Helpers</h1>
+ <p>Let us help plan and deliver your next birthday party!</p>
+ <p>
+ <img src="party.jpg">
+ <br>
+ Motivated student workers</p>
+ <p>Experience with planning</p>
+ <p>Creative ideas at a low cost</p>
+ <h3>Call us now! 555-1212</h3>
+ </body>
+ </html>

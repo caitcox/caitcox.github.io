@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!-- NOTE: this page is full of errors to be fixed -->
+<!-- the title is below -->
+
+your name road trip web page
+
+ 
+
+ 
+
+<!-- the body starts here -->
+
+ 
+
+<h1>Your name’s road trip</h1>
+
+
+<h2> My criteria:
+
+ 
+
+<ol>
+
+<li> one thing</li>
+
+<li> another thing </li>
+
+<li> a third criteria </li>
+
+</ol>
+
+<h2>The map of my trip</h2>
+<!-- get a screen print of your map. Paste it into Paint. Crop off the unnecessary parts. Save as map.jpg in your webpage folder on your H: drive. Adjust the height and width if needed. -->
+
+<img src="map.jpg" height="400" width="600"/>
+
+<!-- make this a paragraph below -->
+
+Describe how you will have fun on your road trip in paragraph form. What will be the most fun or interesting stop along the way? Why? 
